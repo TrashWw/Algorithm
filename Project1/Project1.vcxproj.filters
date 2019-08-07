@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="算法导论代码实现">
+      <UniqueIdentifier>{85e9cea1-68c7-496a-aaf0-1c6baffe075c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法导论代码实现\第二章">
+      <UniqueIdentifier>{6d2f9686-0e1b-4edb-a71c-de2139458abc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="编程之美">
+      <UniqueIdentifier>{f5ca6ef2-c8b9-4f50-b42c-8e4a1a7136fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="编程之美\数字之魅力">
+      <UniqueIdentifier>{fc92acc7-7d4b-462a-a3e5-bed726f1ded0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法导论代码实现\第三十二章">
+      <UniqueIdentifier>{36bea801-9a22-4863-b80a-bb09a969d654}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\动态规划">
+      <UniqueIdentifier>{179b9301-5982-4bc5-8b58-8bb7eb4e26b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="剑指offer">
+      <UniqueIdentifier>{8d5e35bf-e450-4fab-b596-ab4bdda9ec65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="牛客网">
+      <UniqueIdentifier>{8dd24b67-a65d-411d-adc6-7720a487d9e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="牛客网\源码分析">
+      <UniqueIdentifier>{8fbc2508-04ae-45b6-af4f-d53b0fc6c143}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="最长有效括号.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdfx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="图论-单词接龙.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="判断字符串能否转化为数字.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="test_allocate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="正则匹配.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lower_bound.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LRU.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="排序.h">
+      <Filter>算法导论代码实现\第二章</Filter>
+    </ClInclude>
+    <ClInclude Include="beatyOfNumeber.h">
+      <Filter>编程之美\数字之魅力</Filter>
+    </ClInclude>
+    <ClInclude Include="小于某个数的所有数的1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="字符串匹配.h">
+      <Filter>算法导论代码实现\第三十二章</Filter>
+    </ClInclude>
+    <ClInclude Include="编辑距离.h">
+      <Filter>头文件\动态规划</Filter>
+    </ClInclude>
+    <ClInclude Include="最后一块石头.h">
+      <Filter>头文件\动态规划</Filter>
+    </ClInclude>
+    <ClInclude Include="singleton.h">
+      <Filter>剑指offer</Filter>
+    </ClInclude>
+    <ClInclude Include="cpp源码.h">
+      <Filter>牛客网\源码分析</Filter>
+    </ClInclude>
+    <ClInclude Include="最长子串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="三数之和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="电话号码的组合.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="优势洗牌.h">
+      <Filter>头文件\动态规划</Filter>
+    </ClInclude>
+    <ClInclude Include="滑动窗口.h">
+      <Filter>剑指offer</Filter>
+    </ClInclude>
+    <ClInclude Include="骰子概率.h">
+      <Filter>剑指offer</Filter>
+    </ClInclude>
+    <ClInclude Include="链表排序.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="圆圈内最后的数字.h">
+      <Filter>剑指offer</Filter>
+    </ClInclude>
+    <ClInclude Include="网易题找工作.h">
+      <Filter>牛客网</Filter>
+    </ClInclude>
+    <ClInclude Include="硬币兑换.h">
+      <Filter>头文件\动态规划</Filter>
+    </ClInclude>
+    <ClInclude Include="M苹果N个盘子.h">
+      <Filter>头文件\动态规划</Filter>
+    </ClInclude>
+    <ClInclude Include="打家劫舍.h">
+      <Filter>头文件\动态规划</Filter>
+    </ClInclude>
+    <ClInclude Include="KMP.h">
+      <Filter>算法导论代码实现\第三十二章</Filter>
+    </ClInclude>
+    <ClInclude Include="摩斯密码.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="石子游戏.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="环形餐桌身高限制.h">
+      <Filter>头文件\动态规划</Filter>
+    </ClInclude>
+    <ClInclude Include="头条笔试2019春.h">
+      <Filter>牛客网</Filter>
+    </ClInclude>
+    <ClInclude Include="回文链表.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lc307.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lc743.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
