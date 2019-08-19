@@ -40,6 +40,9 @@
     <Filter Include="牛客网\源码分析">
       <UniqueIdentifier>{8fbc2508-04ae-45b6-af4f-d53b0fc6c143}</UniqueIdentifier>
     </Filter>
+    <Filter Include="算法导论代码实现\第二十四章">
+      <UniqueIdentifier>{b881bef0-e3b4-41b1-bd68-5a1788f2c91e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="最长有效括号.h">
@@ -152,6 +155,42 @@
     </ClInclude>
     <ClInclude Include="lc743.h">
       <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="单源最短路径.h">
+      <Filter>算法导论代码实现\第二十四章</Filter>
+    </ClInclude>
+    <ClInclude Include="heap.h">
+      <Filter>算法导论代码实现\第二章</Filter>
+    </ClInclude>
+    <ClInclude Include="逆序对.h">
+      <Filter>剑指offer</Filter>
+    </ClInclude>
+    <ClInclude Include="全排列.h">
+      <Filter>牛客网</Filter>
+    </ClInclude>
+    <ClInclude Include="回溯法——矩阵中的路径.h">
+      <Filter>剑指offer</Filter>
+    </ClInclude>
+    <ClInclude Include="八皇后.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lc1040连续移动石头.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lc307_树状数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="替换字符.h">
+      <Filter>剑指offer</Filter>
+    </ClInclude>
+    <ClInclude Include="lc55_jumpGame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="n个数0-n-1的重复.h">
+      <Filter>剑指offer</Filter>
+    </ClInclude>
+    <ClInclude Include="二维数组查.h">
+      <Filter>剑指offer</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

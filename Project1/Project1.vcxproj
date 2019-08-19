@@ -21,18 +21,28 @@
   <ItemGroup>
     <ClInclude Include="cpp源码.h" />
     <ClInclude Include="Graph.h" />
+    <ClInclude Include="heap.h" />
     <ClInclude Include="KMP.h" />
+    <ClInclude Include="lc1040连续移动石头.h" />
+    <ClInclude Include="lc307_树状数组.h" />
+    <ClInclude Include="lc55_jumpGame.h" />
     <ClInclude Include="lc743.h" />
     <ClInclude Include="lower_bound.h" />
     <ClInclude Include="LRU.h" />
     <ClInclude Include="M苹果N个盘子.h" />
+    <ClInclude Include="n个数0-n-1的重复.h" />
     <ClInclude Include="singleton.h" />
     <ClInclude Include="stdfx.h" />
     <ClInclude Include="test_allocate.h" />
     <ClInclude Include="三数之和.h" />
+    <ClInclude Include="二维数组查.h" />
     <ClInclude Include="优势洗牌.h" />
+    <ClInclude Include="全排列.h" />
+    <ClInclude Include="八皇后.h" />
     <ClInclude Include="判断字符串能否转化为数字.h" />
+    <ClInclude Include="单源最短路径.h" />
     <ClInclude Include="回文链表.h" />
+    <ClInclude Include="回溯法——矩阵中的路径.h" />
     <ClInclude Include="图论-单词接龙.h" />
     <ClInclude Include="圆圈内最后的数字.h" />
     <ClInclude Include="头条笔试2019春.h" />
@@ -40,6 +50,7 @@
     <ClInclude Include="小于某个数的所有数的1.h" />
     <ClInclude Include="打家劫舍.h" />
     <ClInclude Include="摩斯密码.h" />
+    <ClInclude Include="替换字符.h" />
     <ClInclude Include="最后一块石头.h" />
     <ClInclude Include="最长子串.h" />
     <ClInclude Include="最长有效括号.h" />
@@ -54,6 +65,7 @@
     <ClInclude Include="硬币兑换.h" />
     <ClInclude Include="编辑距离.h" />
     <ClInclude Include="网易题找工作.h" />
+    <ClInclude Include="逆序对.h" />
     <ClInclude Include="链表排序.h" />
     <ClInclude Include="骰子概率.h" />
   </ItemGroup>
